@@ -56,10 +56,11 @@ let config = {
 			config: {
 				calendars: [
 					{
-						symbol: "calendar-check",
+						symbol: "calendar",
 						url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"
 					}
-				]
+				],
+				maximumEntries: 5
 			}
 		},
 		{
