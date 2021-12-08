@@ -96,7 +96,7 @@ let config = {
 				weatherProvider: "openweathermap",
 				type: "current",
 				location: "Squaw Valley",
-				locationID: "5398440", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				locationID: "5403676", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				apiKey: "d28e8f56ee38935bb613e5f29a455e83"
 			}
 		},
@@ -108,7 +108,7 @@ let config = {
 				weatherProvider: "openweathermap",
 				type: "forecast",
 				location: "Squaw Valley",
-				locationID: "5398440", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				locationID: "5403676", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				apiKey: "d28e8f56ee38935bb613e5f29a455e83"
 			}
 		},
